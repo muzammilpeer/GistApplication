@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/GistApplication.iml" filepath="$PROJECT_DIR$/GistApplication.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/applicationsupportlayer/applicationsupportlayer.iml" filepath="$PROJECT_DIR$/applicationsupportlayer/applicationsupportlayer.iml" />
       <module fileurl="file://$PROJECT_DIR$/databaselayer/databaselayer.iml" filepath="$PROJECT_DIR$/databaselayer/databaselayer.iml" />
       <module fileurl="file://$PROJECT_DIR$/networklayer/networklayer.iml" filepath="$PROJECT_DIR$/networklayer/networklayer.iml" />
       <module fileurl="file://$PROJECT_DIR$/utilitylayer/utilitylayer.iml" filepath="$PROJECT_DIR$/utilitylayer/utilitylayer.iml" />
